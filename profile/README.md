@@ -2,6 +2,8 @@
 
 You probably got redirected here from the Memora website. Welcome! Since you're already here on GitHub, feel free to follow me. There's not much to see here for now thou. I'll be uploading my source code from my school's GitLab server at a later time, when the project course is over. Please let me know about any bugs or suggestions for future improvements to the application.
 
+
+
 For those who didn't get redirected from the application's website, here's a sneak peek of the application 👀
 
 
