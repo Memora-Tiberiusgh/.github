@@ -9,20 +9,13 @@ For those who didn't get redirected from the application's website, here's a sne
 </br>
 
 ### Demo Video
-<p align="center">
-  <video width="800" autoplay loop muted playsinline controls>
-    <source src="https://github.com/user-attachments/assets/8a250b85-46bd-43fb-a4c2-068df6800369" type="video/mp4">
-    Your browser doesn't support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/8a250b85-46bd-43fb-a4c2-068df6800369
 
 ### Screenshots
 <p align="center">
-  <br><em>Login Screen</em>
   <img src="https://github.com/user-attachments/assets/a8769153-0682-4258-aa75-4eace390c58f" alt="Memora Login Screen" width="800"/>
 </p>
 
 <p align="center">
-  <br><em>Flashcard Interface</em>
   <img src="https://github.com/user-attachments/assets/e35416ab-8b77-498d-9ee4-8b748e0f687c" alt="Memora Flashcard Screen" width="800"/>
 </p>
