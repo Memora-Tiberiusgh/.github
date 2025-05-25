@@ -6,7 +6,9 @@ You probably got redirected here from the Memora website. Welcome! Since you're 
 </br>
 For those who didn't get redirected from the application's website, bellow is a sneak peek of the application 👀
 </br>
+</br>
 Or visit link and see for yourself: https://cscloud8-66.lnu.se
+</br>
 </br>
 
 ### Demo Video
