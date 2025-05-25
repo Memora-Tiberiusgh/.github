@@ -1,11 +1,12 @@
 ## Hi!
 
-You probably got redirected here from the Memora website. Welcome! Since you're already here on GitHub, feel free to follow me. There's not much to see here for now. I'll be uploading my source code from my school's GitLab server at a later time, when the project course is over. Please let me know about any bugs or suggestions for future improvements to the application.
+You probably got redirected here from the Memora website. Welcome! Since you're already here on GitHub, feel free to follow me. There's not much to see here for now. I'll be uploading my source code from my school's GitLab server at a later time, when the project course is over. Please let me know about any bugs or suggestions for future improvements.
 
 </br>
 </br>
-For those who didn't get redirected from the application's website, here's a sneak peek of the application 👀
+For those who didn't get redirected from the application's website, bellow is a sneak peek of the application 👀
 </br>
+Or visit link and see for yourself: https://cscloud8-66.lnu.se
 </br>
 
 ### Demo Video
