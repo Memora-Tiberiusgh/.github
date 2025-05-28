@@ -28,7 +28,7 @@ Please let me know about any bugs or suggestions for future improvements by [ope
 
 ## For Course Evaluators
 
-If you're a teacher evaluating this project, you can find the project's documentation [here](#for-course-evaluators), [here](#for-course-evaluators), <sub><sub><sub><sub><sup>[here](#for-course-evaluators)</sup></sub></sub></sub></sub> or [here](https://gitlab.lnu.se/groups/1dv613/student/tg222hh/memora/-/wikis/home).
+If you're a teacher evaluating this project, you can find the [project's documentation](#for-course-evaluators), [here](#for-course-evaluators), <sub><sub><sub><sub><sup>[here](#for-course-evaluators)</sup></sub></sub></sub></sub> or [here](https://gitlab.lnu.se/groups/1dv613/student/tg222hh/memora/-/wikis/home).
 
 <br/>
 
