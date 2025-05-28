@@ -3,10 +3,6 @@
 You probably got redirected here from the [Memora's website](https://memora.tiberiusgh.com). Welcome! Since you're already here on GitHub, feel free to follow me.  
 
 <br/>
-Memora is a free, user-friendly flashcard application designed to make memorizing content effortless. Unlike existing platforms like Anki, Memrise, or Quizlet that often become costly, unintuitive, or rely on complex algorithms, Memora focuses on simplicity and user control. The application provides a clean, distraction-free interface where users can create collections of flashcards and review them at their own pace, without being locked into algorithmic learning paths or premium pricing tiers.
-
-<br/>
-<br/>
 
 ## About This Project
 
@@ -15,6 +11,13 @@ This application was developed as part of the **1DV613 Software Development Proj
 >The course involves developing software from idea to finished application using programming, requirements analysis, planning, and testing. Students work iteratively >with a SCRUM-like process, with weekly supervision and an entrepreneurial focus. The course follows mainly the Software Engineering 10th ed, by Ian Sommerville.  
 
 You can learn more about the course [here](https://coursepress.lnu.se/kurser/mjukvaruutvecklingsprojekt/).  
+<br/>
+
+<br/>
+Memora is a free, user-friendly flashcard application designed to make memorizing content effortless. Unlike existing platforms like Anki, Memrise, or Quizlet that often become costly, unintuitive, or rely on complex algorithms, Memora focuses on simplicity and user control. The application provides a clean, distraction-free interface where users can create collections of flashcards and review them at their own pace, without being locked into algorithmic learning paths or premium pricing tiers.  
+
+  
+<br/>  
 <br/>
 
 ## Feedback Welcome 💬
