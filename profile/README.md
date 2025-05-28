@@ -10,10 +10,11 @@ Memora is a free, user-friendly flashcard application designed to make memorizin
 
 ## About This Project
 
-This application was developed as part of the **1DV613 Software Development Project** course at Linnaeus University, during the first year of the Web Developer program. You can learn more about the course [here](https://coursepress.lnu.se/kurser/mjukvaruutvecklingsprojekt/).
+This application was developed as part of the **1DV613 Software Development Project** course at Linnaeus University, during the first year of the Web Developer program.
 
->The course involves developing software from idea to finished application using programming, requirements analysis, planning, and testing. Students work iteratively >with a SCRUM-like process, with weekly supervision and an entrepreneurial focus. The course follows mainly the Software Engineering 10th ed, by Ian Sommerville.
+>The course involves developing software from idea to finished application using programming, requirements analysis, planning, and testing. Students work iteratively >with a SCRUM-like process, with weekly supervision and an entrepreneurial focus. The course follows mainly the Software Engineering 10th ed, by Ian Sommerville.  
 
+You can learn more about the course [here](https://coursepress.lnu.se/kurser/mjukvaruutvecklingsprojekt/).  
 <br/>
 
 ## Feedback Welcome
@@ -24,7 +25,7 @@ Please let me know about any bugs or suggestions for future improvements by [ope
 
 ## For Course Evaluators
 
-If you're a teacher evaluating this project, you can find the project's documentation [here](https://gitlab.lnu.se/groups/1dv613/student/tg222hh/memora/-/wikis/home).
+If you're a teacher evaluating this project, you can find the project's documentation [here](#for-course-evaluators), [here](#for-course-evaluators), <sub><sub><sub><sub><sup>[here](#for-course-evaluators)</sup></sub></sub></sub></sub> or [here](https://gitlab.lnu.se/groups/1dv613/student/tg222hh/memora/-/wikis/home).
 
 <br/>
 
