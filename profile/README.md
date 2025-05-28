@@ -1,4 +1,4 @@
-# Hi!
+# Hi! 👋🏼
 
 You probably got redirected here from the [Memora's website](https://memora.tiberiusgh.com). Welcome! Since you're already here on GitHub, feel free to follow me.  
 
@@ -17,7 +17,7 @@ This application was developed as part of the **1DV613 Software Development Proj
 You can learn more about the course [here](https://coursepress.lnu.se/kurser/mjukvaruutvecklingsprojekt/).  
 <br/>
 
-## Feedback Welcome
+## Feedback Welcome 💬
 
 Please let me know about any bugs or suggestions for future improvements by [opening an issue](https://github.com/Memora-Tiberiusgh/orchestrator/issues) in the orchestrator repository!
 
