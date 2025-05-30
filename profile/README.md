@@ -35,7 +35,7 @@ If you're a teacher and looking for the [project's wiki](#for-course-evaluators)
 
 For those who didn't get redirected from the application's website, below is a sneak peek of the application 👀
 
-Or visit live demo and see for yourself [memora.tiberiusgh.com](https://memora.tiberiusgh.com)
+Or visit the live website and see for yourself [memora.tiberiusgh.com](https://memora.tiberiusgh.com)
 
 <br/>
 
