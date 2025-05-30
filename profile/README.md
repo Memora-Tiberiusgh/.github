@@ -8,7 +8,7 @@ You probably got redirected here from the [Memora's website](https://memora.tibe
 
 This application was developed in 10 weeks as part of the **1DV613 Software Development Project** course at Linnaeus University, during the first year of the Web Developer program.
 
-> The course involves developing software from idea to finished application using programming, requirements analysis, planning, and testing. Students work iteratively >with a SCRUM-like process, with weekly supervision and an entrepreneurial focus. The course follows mainly the Software Engineering 10th ed, by Ian Sommerville.
+> The course involves developing software from idea to finished application using programming, requirements analysis, planning, and testing. Students work iteratively through a SCRUM-like process, with weekly supervision and an entrepreneurial focus. The course follows mainly the Software Engineering 10th ed, by Ian Sommerville.
 
 You can learn more about the course [here](https://coursepress.lnu.se/kurser/mjukvaruutvecklingsprojekt/).  
 <br/>
