@@ -1,6 +1,6 @@
 # Hi! 👋🏼
 
-You probably got redirected here from the [Memora's website](https://memora.tiberiusgh.com). Welcome! Since you're already here on GitHub, feel free to follow me.
+You probably got redirected here from the [Memora's website](https://memora.tiberiusgh.com). Welcome! Since you're already here on GitHub, feel free to [follow me](https://github.com/TiberiusGh).
 
 <br/>
 
