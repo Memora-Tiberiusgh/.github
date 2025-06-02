@@ -59,6 +59,9 @@ https://github.com/user-attachments/assets/8a250b85-46bd-43fb-a4c2-068df6800369
   <img src="https://github.com/Memora-Tiberiusgh/orchestrator/raw/main/memora_architecture.png" alt="Memora architecture" width="800"/>
 </p>
 
+More detailed information about the architecture can be found in the [orchestrator repository](https://github.com/Memora-Tiberiusgh/orchestrator).
+
+
 ## Repository Structure
 
 This organization contains the following repositories:
